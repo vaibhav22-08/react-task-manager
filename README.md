@@ -1,4 +1,4 @@
-# React Task Tracker App
+# React Task Manager App
 
 ### Install dependencies
 
